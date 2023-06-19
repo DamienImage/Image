@@ -1,0 +1,414 @@
+{
+  "files.encoding": "utf8bom",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.4408474,
+          "lng": 12.3155151
+        }
+      },
+      "GitName": "Italie",
+      "name": "Venise",
+      "vicinity": "Voyage en amoureux à Venise !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.6778,
+          "lng": 8.6153
+        }
+      },
+      "GitName": "Rhin",
+      "name": "Chutes du Rhin",
+      "vicinity": "Visite des chutes du Rhin en amoureux en octobre 2021"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.0501682,
+          "lng": 8.3093072
+        }
+      },
+      "GitName": "Lucerne",
+      "name": "Lucerne",
+      "vicinity": "Voyage à Lucerne avec le petit chat, septembre 2021"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.18333,
+          "lng": 6.71667
+        }
+      },
+      "GitName": "MorzineJuin",
+      "name": "Morzine",
+      "vicinity": "Week-end à Morzine avec les amis de Camille pendant l'été"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.2000,
+          "lng": 6.8000
+        }
+      },
+      "GitName": "MorzineNouvelAn",
+      "name": "Nouvel an à Morzine",
+      "vicinity": "Nouvel an à Morzine pour fêter la nouvelle année 2022"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 52.377956,
+          "lng": 4.897070
+        }
+      },
+      "GitName": "PaysBas",
+      "name": "Pays-Bas",
+      "vicinity": "Voyage à Amsterdam et ses alentours avec la louloute en temps de covid"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 44.812,
+          "lng": 5.571
+        }
+      },
+      "GitName": "SkiDeFond",
+      "name": "Chichilianne ",
+      "vicinity": "Ski de fond à Chichilianne avec la famille Cherblanc (2021) "
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.368650,
+          "lng": 8.539183
+        }
+      },
+      "GitName": "Zurich",
+      "name": "Zurich",
+      "vicinity": "Week-end en amoureux en Suisse, à Zurich en octobre 2021"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.394144,
+          "lng": 0.68484
+        }
+      },
+      "GitName": "Loire",
+      "name": "Loire à vélo",
+      "vicinity": "Premier d'une longue série de périple à vélo avec la louloute ! Grosse partie de la loire à vélo"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.7395713,
+          "lng": 4.8371219
+        }
+      },
+      "GitName": "Confinement",
+      "name": "Appartement des loulous",
+      "vicinity": "Lieu de villégiature des loulous pendant la période covid"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.2692124,
+          "lng": 11.4041024
+        }
+      },
+      "GitName": "Innsbruck",
+      "name": "Innsbruck",
+      "vicinity": "Week-end parfait avec la louloute à Innsbruck en février 2022, on repassera pour la fonderie des horloges"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.748428,
+          "lng": 7.626298
+        }
+      },
+      "GitName": "Thoune",
+      "name": "Thoune",
+      "vicinity": "Visite de Thoune avec la louloute à coté de Interlaken pendant un Week-end"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.739,
+          "lng": 4.837
+        }
+      },
+      "GitName": "Photo2022",
+      "name": "Année 2022",
+      "vicinity": "Photos relatant notre année 2022 ensemble"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.7395,
+          "lng": 4.8374
+        }
+      },
+      "GitName": "Photo2021",
+      "name": "Année 2021",
+      "vicinity": "Photos relatant notre année 2021 ensemble"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.73952,
+          "lng": 4.83741
+        }
+      },
+      "GitName": "Photo2020",
+      "name": "Année 2020",
+      "vicinity": "Photos relatant notre année 2020 ensemble"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.4562353,
+          "lng": 10.9728807
+        }
+      },
+      "GitName": "Eibsee",
+      "name": "Eibsee",
+      "vicinity": "Visite de Eibsee en 2021 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.50311,
+          "lng": 9.7471
+        }
+      },
+      "GitName": "Bregenz",
+      "name": "Bregenz",
+      "vicinity": "Visite de Bregenz en fevrier 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.89249643,
+          "lng": 6.123166174
+        }
+      },
+      "GitName": "Annecy",
+      "name": "Annecy",
+      "vicinity": "Tour du lac d'Annecy et visite de la ville 2021 et 2022 !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.94809,
+          "lng": 7.44744
+        }
+      },
+      "GitName": "Berne",
+      "name": "Berne",
+      "vicinity": "Visite de Berne, la capitale Suisse en mai 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 43.94834,
+          "lng": 4.80892
+        }
+      },
+      "GitName": "Avignon",
+      "name": "Avignon",
+      "vicinity": "Visite d'Avignon en 2021 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 43.83333,
+          "lng": 4.35
+        }
+      },
+      "GitName": "Nimes",
+      "name": "Nimes",
+      "vicinity": "Visite de Nimes en 2021 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.864716,
+          "lng": 2.349014
+        }
+      },
+      "GitName": "Paris",
+      "name": "Paris",
+      "vicinity": "Visite de Paris en mai 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.864716,
+          "lng": 2.349014
+        }
+      },
+      "GitName": "Dornbirn",
+      "name": "Dornbirn",
+      "vicinity": "Visite de Dornbirn en Juin 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.0193700,
+          "lng": -7.9322300
+        }
+      },
+      "GitName": "Faro",
+      "name": "Faro",
+      "vicinity": "Visite de Faro au Portugal en Septembre 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.188998,
+          "lng": -8.441205
+        }
+      },
+      "GitName": "Silves",
+      "name": "Silves",
+      "vicinity": "Visite de Silves au Portugal en Septembre 2022 avec la Louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.0833,
+          "lng": -8.4333
+        }
+      },
+      "GitName": "Algarve",
+      "name": "Algarve",
+      "vicinity": "Visite des Algarve au Portugal en Septembre 2022 avec la Louloute ! (grotte de Benagil)"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.23306,
+          "lng": 9.6
+        }
+      },
+      "GitName": "Feldkirch",
+      "name": "Feldkirch",
+      "vicinity": "Visite de la Louloute à Feldkirch en juin chez DamDam pendant sa césure !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.2081743,
+          "lng": 16.3738189
+        }
+      },
+      "GitName": "Vienne",
+      "name": "Vienne",
+      "vicinity": "Visite de Vienne en 2021 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.1166662,
+          "lng": -8.5166646
+        }
+      },
+      "GitName": "Ferragudo-Portimao",
+      "name": "Ferragudo-Portimao",
+      "vicinity": "Visite de Ferragudo-Portimao en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.102788,
+          "lng": -8.673027
+        }
+      },
+      "GitName": "Lagos",
+      "name": "Lagos",
+      "vicinity": "Visite de Lagos en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 38.7222524,
+          "lng": -9.1393366
+        }
+      },
+      "GitName": "Lisbonne",
+      "name": "Lisbonne",
+      "vicinity": "Visite de Lisbonne en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.432269,
+          "lng": -8.771102
+        }
+      },
+      "GitName": "Odeceixe",
+      "name": "Odeceixe",
+      "vicinity": "Visite de Odeceixe en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 41.157944,
+          "lng": -8.629105
+        }
+      },
+      "GitName": "Porto",
+      "name": "Porto",
+      "vicinity": "Visite de Porto en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 38.80097,
+          "lng": -9.37826
+        }
+      },
+      "GitName": "Sintra",
+      "name": "Sintra",
+      "vicinity": "Visite de Sintra en Septembre 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.3833,
+          "lng": 11.8500
+        }
+      },
+      "GitName": "Dolomites",
+      "name": "Dolomites",
+      "vicinity": "Visite de Dolomites 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.406435,
+          "lng": 11.876761
+        }
+      },
+      "GitName": "Padoue",
+      "name": "Padoue",
+      "vicinity": "Visite de Padoue 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.438384,
+          "lng": 10.991622
+        }
+      },
+      "GitName": "Verone",
+      "name": "Verone",
+      "vicinity": "Visite de Verone 2022 avec la louloute !"
+    }
+  ],
+  "status": "OK"
+} 
+	

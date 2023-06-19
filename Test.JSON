@@ -1,0 +1,28 @@
+{
+  "connections": [
+    {
+      "device": "Mi 9T Pro",
+      "NumberOfConnection": 374,
+      "SMS_Send": 17,
+      "VideoViewed": 168,
+      "TripSelected": 192,
+      "RecipeSelected": 169,
+      "deviceType": "Physical",
+      "version": "11.0",
+      "platform": "Android",
+      "idiom": "Phone"
+    },
+    {
+      "device": "ONEPLUS A6003",
+      "NumberOfConnection": 2,
+      "SMS_Send": 0,
+      "VideoViewed": 1,
+      "TripSelected": 1,
+      "RecipeSelected": 2,
+      "deviceType": "Physical",
+      "version": "11.0",
+      "platform": "Android",
+      "idiom": "Phone"
+    }
+  ]
+}
