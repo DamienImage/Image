@@ -67,7 +67,7 @@
       "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/POtimarronsFarcisPhoto.jpg"
     },
     {
-      "catégorie": "Viande",
+      "catégorie": "Magret",
       "Nom": "Magret de canard rôtiSauce à la sauce nougat",
       "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardRôtiSauceNougat.jpg",
       "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardRôtiSauceNougatPhoto.jpg"
@@ -101,6 +101,36 @@
       "Nom": "Quennelles au brochet sauce nantua",
       "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/QuennellesBrochetSauceNantua.jpg",
       "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/QuennellesBrochetSauceNantuaPhoto.jpg"
+    },
+    {
+      "catégorie": "Magret",
+      "Nom": "Magret de canard aux champignons et aux marrons",
+      "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardChampignonMarron.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardChampignonMarronPhoto.jpg"
+    },
+    {
+      "catégorie": "Magret",
+      "Nom": "Magret de canard aux navet galcés",
+      "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardNavetGalces.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardNavetGalcesPhoto.jpg"
+    },
+    {
+      "catégorie": "Magret",
+      "Nom": "Magret de canard aux poires",
+      "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardPoires.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardPoiresPhoto.jpg"
+    },
+    {
+      "catégorie": "Magret",
+      "Nom": "Magret de canard au vinaigre de framboise",
+      "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardVinaigreFramboise.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanardVinaigreFramboisePhoto.jpg"
+    },
+    {
+      "catégorie": "Magret",
+      "Nom": "Magret de canard aux 5 épices",
+      "AdressePhoto": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanard5Epices.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/Damien-OLLIER/AppPictures/main/Menu/Photo/Plat/MagretCanard5EpicesPhoto.jpg"
     }
   ]
 }
