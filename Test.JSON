@@ -30,7 +30,7 @@
       "SMS_Send": 1,
       "VideoViewed": 2,
       "TripSelected": 0,
-      "RecipeSelected": 1,
+      "RecipeSelected": 2,
       "deviceType": "Physical",
       "version": "13.0",
       "platform": "Android",
