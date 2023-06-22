@@ -23,6 +23,18 @@
       "version": "11.0",
       "platform": "Android",
       "idiom": "Phone"
+    },
+    {
+      "device": "SM-S901B",
+      "NumberOfConnection": 1,
+      "SMS_Send": 0,
+      "VideoViewed": 0,
+      "TripSelected": 0,
+      "RecipeSelected": 0,
+      "deviceType": "Physical",
+      "version": "13.0",
+      "platform": "Android",
+      "idiom": "Phone"
     }
   ]
 }
