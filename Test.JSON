@@ -26,7 +26,7 @@
     },
     {
       "device": "SM-S901B",
-      "NumberOfConnection": 9,
+      "NumberOfConnection": 10,
       "SMS_Send": 4,
       "VideoViewed": 30,
       "TripSelected": 5,
