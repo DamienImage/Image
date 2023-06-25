@@ -29,7 +29,7 @@
       "NumberOfConnection": 15,
       "SMS_Send": 20,
       "VideoViewed": 31,
-      "TripSelected": 5,
+      "TripSelected": 6,
       "RecipeSelected": 24,
       "deviceType": "Physical",
       "version": "13.0",
