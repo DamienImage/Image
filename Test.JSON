@@ -2,11 +2,11 @@
   "connections": [
     {
       "device": "Mi 9T Pro",
-      "NumberOfConnection": 380,
-      "SMS_Send": 17,
+      "NumberOfConnection": 399,
+      "SMS_Send": 23,
       "VideoViewed": 210,
-      "TripSelected": 198,
-      "RecipeSelected": 171,
+      "TripSelected": 206,
+      "RecipeSelected": 182,
       "deviceType": "Physical",
       "version": "11.0",
       "platform": "Android",
@@ -21,6 +21,18 @@
       "RecipeSelected": 2,
       "deviceType": "Physical",
       "version": "11.0",
+      "platform": "Android",
+      "idiom": "Phone"
+    },
+    {
+      "device": "SM-S901B",
+      "NumberOfConnection": 38,
+      "SMS_Send": 42,
+      "VideoViewed": 33,
+      "TripSelected": 7,
+      "RecipeSelected": 25,
+      "deviceType": "Physical",
+      "version": "13.0",
       "platform": "Android",
       "idiom": "Phone"
     }
