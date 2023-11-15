@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Menu",
+    "\\Menu\\Photo",
+    "\\Menu\\Photo\\Plat"
   ],
-  "SelectedNode": "\\C:\\Users\\damie\\Source\\Repos\\Image",
+  "SelectedNode": "\\Menu\\Photo\\Plat\\PoulpeBoudinNoirMoleBetteravesPhoto.jpg",
   "PreviewInSolutionExplorer": false
 }

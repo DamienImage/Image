@@ -131,6 +131,12 @@
       "Nom": "Magret de canard aux 5 épices",
       "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/MagretCanard5Epices.jpg",
       "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/MagretCanard5EpicesPhoto.jpg"
+    },
+    {
+      "catégorie": "Poisson",
+      "Nom": "Poulpe au boudin noir et mole et betteraves",
+      "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/PoulpeBoudinNoirMoleBetteraves.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/PoulpeBoudinNoirMoleBetteravesPhoto.jpg"
     }
   ]
 }
