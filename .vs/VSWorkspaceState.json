@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Menu",
     "\\Menu\\Photo",
-    "\\Menu\\Photo\\Plat"
+    "\\Menu\\Photo\\Plat",
+    "\\Zurich"
   ],
-  "SelectedNode": "\\Menu\\Photo\\Plat\\PoulpeBoudinNoirMoleBetteravesPhoto.jpg",
+  "SelectedNode": "\\Zurich\\Zurich1.JPG",
   "PreviewInSolutionExplorer": false
 }
