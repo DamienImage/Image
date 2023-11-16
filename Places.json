@@ -440,6 +440,39 @@
       "GitName": "MontmorencyCanada",
       "name": "Chute de Montmorency",
       "vicinity": "Visite des chutes Montmorency au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.813878,
+          "lng": -71.207981
+        }
+      },
+      "GitName": "QuebecCanada",
+      "name": "Quebec",
+      "vicinity": "Visite de Quebec au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.400002,
+          "lng": -73.580002
+        }
+      },
+      "GitName": "SainteCatherineCanada",
+      "name": "Sainte Catherine",
+      "vicinity": "Visite de Sainte Catherine au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.6556,
+          "lng": -72.4469
+        }
+      },
+      "GitName": "SaintFelicienCanada",
+      "name": "Saint Felicien",
+      "vicinity": "Visite de Saint Felicien au Canada en septembre 2023."
     }
   ],
   "status": "OK"  
