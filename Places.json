@@ -416,10 +416,32 @@
         }
       },
       "GitName": "ChicoutimiCanada",
-      "name": "ChicoutimiCanada",
+      "name": "Chicoutimi",
       "vicinity": "Visite de Chicoutimi en septembre 2023. Petite ville typique du Canada !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 49.4013889,
+          "lng": -62.1702778
+        }
+      },
+      "GitName": "GrandeBaieCanada",
+      "name": "GrandeBaie",
+      "vicinity": "Visite de la Grande-Baie au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.887829782,
+          "lng": -71.141832766
+        }
+      },
+      "GitName": "MontmorencyCanada",
+      "name": "Chute de Montmorency",
+      "vicinity": "Visite des chutes Montmorency au Canada en septembre 2023."
     }
   ],
-  "status": "OK"
+  "status": "OK"  
 } 
 	
