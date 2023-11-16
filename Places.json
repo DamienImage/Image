@@ -455,13 +455,13 @@
     {
       "geometry": {
         "location": {
-          "lat": 45.400002,
-          "lng": -73.580002
+          "lat": 48.0997429,
+          "lng": -69.722283
         }
       },
       "GitName": "SainteCatherineCanada",
       "name": "Sainte Catherine",
-      "vicinity": "Visite de Sainte Catherine au Canada en septembre 2023."
+      "vicinity": "Visite des baleines à la baie Sainte Catherine au Canada"
     },
     {
       "geometry": {
@@ -473,6 +473,39 @@
       "GitName": "SaintFelicienCanada",
       "name": "Saint Felicien",
       "vicinity": "Visite de Saint Felicien au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 47.844387,
+          "lng": -69.877795
+        }
+      },
+      "GitName": "SaintSimeonCanada",
+      "name": "Saint Simeon",
+      "vicinity": "Visite de SaintSimeon au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.146,
+          "lng": -69.7128
+        }
+      },
+      "GitName": "TadoussacCanada",
+      "name": "Tadoussac",
+      "vicinity": "Visite de Tadoussac au Canada en septembre 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.43333,
+          "lng": -72.16389
+        }
+      },
+      "GitName": "ValJalbertCanada",
+      "name": "Val Jalbert",
+      "vicinity": "Visite du petit village de Val Jalbert avec la cascade."
     }
   ],
   "status": "OK"  
