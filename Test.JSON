@@ -2,10 +2,10 @@
   "connections": [
     {
       "device": "Mi 9T Pro",
-      "NumberOfConnection": 400,
+      "NumberOfConnection": 401,
       "SMS_Send": 23,
       "VideoViewed": 210,
-      "TripSelected": 207,
+      "TripSelected": 210,
       "RecipeSelected": 182,
       "deviceType": "Physical",
       "version": "11.0",
