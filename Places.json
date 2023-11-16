@@ -407,6 +407,17 @@
       "GitName": "Verone",
       "name": "Verone",
       "vicinity": "Visite de Verone 2022 avec la louloute !"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 48.4149,
+          "lng": -71.0489
+        }
+      },
+      "GitName": "Chicoutimi",
+      "name": "Chicoutimi",
+      "vicinity": "Visite de Chicoutimi en septembre 2023. Petite ville typique du Canada !"
     }
   ],
   "status": "OK"
