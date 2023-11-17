@@ -517,6 +517,39 @@
       "GitName": "MauricieCanada",
       "name": "Parc de la Mauricie",
       "vicinity": "Visite du Parc de la Mauricie en 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 45.5088400,
+          "lng": -73.5878100
+        }
+      },
+      "GitName": "MontrealCanada",
+      "name": "Montreal",
+      "vicinity": "Visite de la ville de Montreal en 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.375039,
+          "lng": -74.506946
+        }
+      },
+      "GitName": "MontTremblantCanada",
+      "name": "Parc du Mont Tremblant",
+      "vicinity": "Visite du Parc Mont Tremblant en 2023."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.5429,
+          "lng": -72.748
+        }
+      },
+      "GitName": "ShawiniganCanada",
+      "name": "Shawinigan",
+      "vicinity": "Visite de Shawinigan en 2023."
     }
   ],
   "status": "OK"  
