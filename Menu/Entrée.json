@@ -23,6 +23,12 @@
       "Nom": "Croquettes fondantes",
       "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Entree/CroquettesFondantes.jpg",
       "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Entree/CroquettesFondantesPhoto.jpg"
+    },
+    {
+      "catégorie": "Soupe",
+      "Nom": "Veloute d'endive au jambon",
+      "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Entree/VelouteEndiveJambonPhoto.jpg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Entree/VelouteEndiveJambon.jpg"
     }
   ]
 }

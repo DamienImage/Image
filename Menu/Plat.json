@@ -25,12 +25,6 @@
       "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/TarteTatinCarotteChebrePhoto.jpg"
     },
     {
-      "catégorie": "Soupe",
-      "Nom": "Veloute d'endive au jambon",
-      "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/VelouteEndiveJambonPhoto.jpg",
-      "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/VelouteEndiveJambon.jpg"
-    },
-    {
       "catégorie": "Farce",
       "Nom": "Aubergine farcies au pignons",
       "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/AubergineFarciesPhoto.jpg",
@@ -57,8 +51,8 @@
     {
       "catégorie": "Tagine",
       "Nom": "Tagine dagneau aux abricots secs",
-      "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/tajine-d-agneau-aux-abricots-secs.jpg",
-      "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/tajine-d-agneau-aux-abricots-secsPhoto.jpeg"
+      "AdressePhoto": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/tajine-d-agneau-aux-abricots-secsPhoto.jpeg",
+      "Ingredients_Instruction": "https://raw.githubusercontent.com/DamienImage/Image/main/Menu/Photo/Plat/tajine-d-agneau-aux-abricots-secs.jpg"
     },
     {
       "catégorie": "Farce",
