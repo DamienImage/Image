@@ -506,6 +506,17 @@
       "GitName": "ValJalbertCanada",
       "name": "Val Jalbert",
       "vicinity": "Visite du petit village de Val Jalbert avec la cascade."
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 46.7575,
+          "lng": -72.8128
+        }
+      },
+      "GitName": "MauricieCanada",
+      "name": "Parc de la Mauricie",
+      "vicinity": "Visite du Parc de la Mauricie en 2023."
     }
   ],
   "status": "OK"  
